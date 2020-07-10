@@ -6,6 +6,8 @@ I am a macOS, iOS, Mobile apps & games developer. I am interested in all things 
 
 Currently exploring SwiftUI, webdev stacks - learning and hacking things to make it useful.
 
+After finishing my current scratchpad, I am sketching out a plan to start my journey on Machine Learning, not sure how to go about it 🙃
+
 I love Technology, Music, Road-trip, Creativity. Interested in my work please reach to me on twitter [@itsdamslife](https://twitter.com/itsdamslife)
 
 <!--
