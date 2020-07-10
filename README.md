@@ -6,7 +6,7 @@ I am a macOS, iOS, Mobile apps & games developer. I am interested in all things 
 
 Currently exploring SwiftUI, webdev stacks - learning and hacking things to make it useful.
 
-I love Technology, Music, Road-trip, Creativity. Interested in my work please reach to me on twitter ![@itsdamslife](https://twitter.com/itsdamslife)
+I love Technology, Music, Road-trip, Creativity. Interested in my work please reach to me on twitter [@itsdamslife](https://twitter.com/itsdamslife)
 
 <!--
 **itsdamslife/itsdamslife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
